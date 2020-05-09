@@ -1,5 +1,5 @@
 # pypex
-Python Package for Physics Experiments based on [adouge/octapex](https://github.com/adouge/octapex "octapex")
+Python for Physics Experiments, idea based on [adouge/octapex](https://github.com/adouge/octapex "octapex")
 
 ## todo
 * ~Port existing octapex code to Python~ nothing to port.
