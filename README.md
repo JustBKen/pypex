@@ -2,6 +2,8 @@
 Python for Physics Experiments, idea based on [adouge/octapex](https://github.com/adouge/octapex "octapex")
 
 ## todo
+* Define purpose, desired functionality/documentation
+
 * ~Port existing octapex code to Python~ nothing to port.
 * ~Data read Function
  Read csv,tsv or spreadsheet into usable data~ pandas
